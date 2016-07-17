@@ -1,0 +1,268 @@
+<MaxAnimation version="1.00" date="Sun Jul 17 04:27:30 2016">
+    <SceneInfo fileName="skeleton.max" startTick="0" endTick="4800" frameRate="30" ticksPerFrame="160" />
+    <CustomData />
+    <Node name="IK Chain003" parentNode="Scene Root" parentNodeIndex="7" ikBeginNode="bone_tight_l" ikEndNode="bone_foot_l" numChildren="0">
+        <Samples count="31">
+            <S t="0" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 3.539403 2.035991" />
+            <S t="160" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 3.127350 2.202060" />
+            <S t="320" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 1.970996 2.652818" />
+            <S t="480" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 0.190045 3.317093" />
+            <S t="640" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -2.095795 4.123713" />
+            <S t="800" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -4.766818 5.001506" />
+            <S t="960" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -7.703318 5.879298" />
+            <S t="1120" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -10.785587 6.685918" />
+            <S t="1280" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -13.893924 7.350194" />
+            <S t="1440" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -16.908613 7.800952" />
+            <S t="1600" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.377880 -19.709959 7.967021" />
+            <S t="1760" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.388002 -22.322336 7.801103" />
+            <S t="1920" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.415477 -24.883430 7.350752" />
+            <S t="2080" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.455966 -27.443493 6.687078" />
+            <S t="2240" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.505132 -30.052771 5.881187" />
+            <S t="2400" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.558635 -32.761520 5.004189" />
+            <S t="2560" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.612139 -35.619980 4.127190" />
+            <S t="2720" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.661304 -38.678406 3.321300" />
+            <S t="2880" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.701794 -41.987041 2.657625" />
+            <S t="3040" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.729269 -45.596146 2.207275" />
+            <S t="3200" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.739391 -49.555962 2.041356" />
+            <S t="3360" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.737809 -54.408405 2.121923" />
+            <S t="3520" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.733516 -60.402431 2.340605" />
+            <S t="3680" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.727190 -67.148842 2.662873" />
+            <S t="3840" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.719508 -74.258453 3.054198" />
+            <S t="4000" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.711148 -81.342072 3.480052" />
+            <S t="4160" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.702788 -88.010490 3.905906" />
+            <S t="4320" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.695106 -93.874527 4.297231" />
+            <S t="4480" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.688779 -98.544983 4.619499" />
+            <S t="4640" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.684486 -101.632660 4.838181" />
+            <S t="4800" v="1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 7.682905 -102.748375 4.918747" />
+        </Samples>
+        <Controller name="IK Chain003 \ Transform" classOf="IKChainControl" classID="78724378,8A4FD9" superClassID="9008" subNum="2" numChildren="3" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="31">
+                <MVal t="0" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 3.539403 2.035991 " />
+                <MVal t="160" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 3.127350 2.202060 " />
+                <MVal t="320" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 1.970996 2.652818 " />
+                <MVal t="480" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 0.190045 3.317093 " />
+                <MVal t="640" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -2.095795 4.123713 " />
+                <MVal t="800" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -4.766818 5.001506 " />
+                <MVal t="960" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -7.703318 5.879298 " />
+                <MVal t="1120" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -10.785587 6.685918 " />
+                <MVal t="1280" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -13.893924 7.350194 " />
+                <MVal t="1440" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -16.908613 7.800952 " />
+                <MVal t="1600" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -19.709959 7.967021 " />
+                <MVal t="1760" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.388002 -22.322336 7.801103 " />
+                <MVal t="1920" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.415477 -24.883430 7.350752 " />
+                <MVal t="2080" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.455966 -27.443493 6.687078 " />
+                <MVal t="2240" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.505132 -30.052771 5.881187 " />
+                <MVal t="2400" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.558635 -32.761520 5.004189 " />
+                <MVal t="2560" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.612139 -35.619980 4.127190 " />
+                <MVal t="2720" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.661304 -38.678406 3.321300 " />
+                <MVal t="2880" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.701794 -41.987041 2.657625 " />
+                <MVal t="3040" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.729269 -45.596146 2.207275 " />
+                <MVal t="3200" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.739391 -49.555962 2.041356 " />
+                <MVal t="3360" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.737809 -54.408405 2.121923 " />
+                <MVal t="3520" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.733516 -60.402431 2.340605 " />
+                <MVal t="3680" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.727190 -67.148842 2.662873 " />
+                <MVal t="3840" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.719508 -74.258453 3.054198 " />
+                <MVal t="4000" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.711148 -81.342072 3.480052 " />
+                <MVal t="4160" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.702788 -88.010490 3.905906 " />
+                <MVal t="4320" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.695106 -93.874527 4.297231 " />
+                <MVal t="4480" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.688779 -98.544983 4.619499 " />
+                <MVal t="4640" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.684486 -101.632660 4.838181 " />
+                <MVal t="4800" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.682905 -102.748375 4.918747 " />
+            </Samples>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ Swivel Angle" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal" classOf="Position/Rotation/Scale" classID="2005,0" superClassID="9008" subNum="1" numChildren="3" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="31">
+                <MVal t="0" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 3.539403 2.035991 " />
+                <MVal t="160" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 3.127350 2.202060 " />
+                <MVal t="320" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 1.970996 2.652818 " />
+                <MVal t="480" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 0.190045 3.317093 " />
+                <MVal t="640" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -2.095795 4.123713 " />
+                <MVal t="800" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -4.766818 5.001506 " />
+                <MVal t="960" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -7.703318 5.879298 " />
+                <MVal t="1120" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -10.785587 6.685918 " />
+                <MVal t="1280" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -13.893924 7.350194 " />
+                <MVal t="1440" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -16.908613 7.800952 " />
+                <MVal t="1600" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.377880 -19.709959 7.967021 " />
+                <MVal t="1760" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.388002 -22.322336 7.801103 " />
+                <MVal t="1920" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.415477 -24.883430 7.350752 " />
+                <MVal t="2080" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.455966 -27.443493 6.687078 " />
+                <MVal t="2240" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.505132 -30.052771 5.881187 " />
+                <MVal t="2400" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.558635 -32.761520 5.004189 " />
+                <MVal t="2560" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.612139 -35.619980 4.127190 " />
+                <MVal t="2720" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.661304 -38.678406 3.321300 " />
+                <MVal t="2880" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.701794 -41.987041 2.657625 " />
+                <MVal t="3040" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.729269 -45.596146 2.207275 " />
+                <MVal t="3200" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.739391 -49.555962 2.041356 " />
+                <MVal t="3360" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.737809 -54.408405 2.121923 " />
+                <MVal t="3520" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.733516 -60.402431 2.340605 " />
+                <MVal t="3680" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.727190 -67.148842 2.662873 " />
+                <MVal t="3840" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.719508 -74.258453 3.054198 " />
+                <MVal t="4000" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.711148 -81.342072 3.480052 " />
+                <MVal t="4160" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.702788 -88.010490 3.905906 " />
+                <MVal t="4320" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.695106 -93.874527 4.297231 " />
+                <MVal t="4480" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.688779 -98.544983 4.619499 " />
+                <MVal t="4640" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.684486 -101.632660 4.838181 " />
+                <MVal t="4800" v="1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 7.682905 -102.748375 4.918747 " />
+            </Samples>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Position" classOf="Position List" classID="4B4B1002,0" superClassID="900B" subNum="0" numChildren="4" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="31">
+                <P3Val t="0" v="7.377880 3.539403 2.035991 " />
+                <P3Val t="160" v="7.377880 3.127350 2.202060 " />
+                <P3Val t="320" v="7.377880 1.970996 2.652818 " />
+                <P3Val t="480" v="7.377880 0.190045 3.317093 " />
+                <P3Val t="640" v="7.377880 -2.095795 4.123713 " />
+                <P3Val t="800" v="7.377880 -4.766818 5.001506 " />
+                <P3Val t="960" v="7.377880 -7.703318 5.879298 " />
+                <P3Val t="1120" v="7.377880 -10.785587 6.685918 " />
+                <P3Val t="1280" v="7.377880 -13.893924 7.350194 " />
+                <P3Val t="1440" v="7.377880 -16.908613 7.800952 " />
+                <P3Val t="1600" v="7.377880 -19.709959 7.967021 " />
+                <P3Val t="1760" v="7.388002 -22.322336 7.801103 " />
+                <P3Val t="1920" v="7.415477 -24.883430 7.350752 " />
+                <P3Val t="2080" v="7.455966 -27.443493 6.687078 " />
+                <P3Val t="2240" v="7.505132 -30.052771 5.881187 " />
+                <P3Val t="2400" v="7.558635 -32.761520 5.004189 " />
+                <P3Val t="2560" v="7.612139 -35.619980 4.127190 " />
+                <P3Val t="2720" v="7.661304 -38.678406 3.321300 " />
+                <P3Val t="2880" v="7.701794 -41.987041 2.657625 " />
+                <P3Val t="3040" v="7.729269 -45.596146 2.207275 " />
+                <P3Val t="3200" v="7.739391 -49.555962 2.041356 " />
+                <P3Val t="3360" v="7.737809 -54.408405 2.121923 " />
+                <P3Val t="3520" v="7.733516 -60.402431 2.340605 " />
+                <P3Val t="3680" v="7.727190 -67.148842 2.662873 " />
+                <P3Val t="3840" v="7.719508 -74.258453 3.054198 " />
+                <P3Val t="4000" v="7.711148 -81.342072 3.480052 " />
+                <P3Val t="4160" v="7.702788 -88.010490 3.905906 " />
+                <P3Val t="4320" v="7.695106 -93.874527 4.297231 " />
+                <P3Val t="4480" v="7.688779 -98.544983 4.619499 " />
+                <P3Val t="4640" v="7.684486 -101.632660 4.838181 " />
+                <P3Val t="4800" v="7.682905 -102.748375 4.918747 " />
+            </Samples>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Position \ Zero Pos XYZ" classOf="Position XYZ" classID="118F7E02,FFEE238A" superClassID="900B" subNum="1" numChildren="3" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Samples count="31">
+                <P3Val t="0" v="0.0 0.0 0.0 " />
+                <P3Val t="160" v="0.0 -0.412053 0.166069 " />
+                <P3Val t="320" v="0.0 -1.568408 0.616827 " />
+                <P3Val t="480" v="0.0 -3.349358 1.281103 " />
+                <P3Val t="640" v="0.0 -5.635199 2.087723 " />
+                <P3Val t="800" v="0.0 -8.306221 2.965515 " />
+                <P3Val t="960" v="0.0 -11.242721 3.843308 " />
+                <P3Val t="1120" v="0.0 -14.324990 4.649928 " />
+                <P3Val t="1280" v="0.0 -17.433327 5.314204 " />
+                <P3Val t="1440" v="0.0 -20.448017 5.764961 " />
+                <P3Val t="1600" v="0.0 -23.249363 5.931030 " />
+                <P3Val t="1760" v="0.010122 -25.861740 5.765112 " />
+                <P3Val t="1920" v="0.037597 -28.422834 5.314761 " />
+                <P3Val t="2080" v="0.078086 -30.982897 4.651087 " />
+                <P3Val t="2240" v="0.127252 -33.592175 3.845196 " />
+                <P3Val t="2400" v="0.180756 -36.300922 2.968198 " />
+                <P3Val t="2560" v="0.234259 -39.159382 2.091199 " />
+                <P3Val t="2720" v="0.283425 -42.217808 1.285309 " />
+                <P3Val t="2880" v="0.323914 -45.526443 0.621634 " />
+                <P3Val t="3040" v="0.351389 -49.135548 0.171284 " />
+                <P3Val t="3200" v="0.361511 -53.095364 0.005365 " />
+                <P3Val t="3360" v="0.359930 -57.947807 0.085932 " />
+                <P3Val t="3520" v="0.355637 -63.941833 0.304614 " />
+                <P3Val t="3680" v="0.349310 -70.688248 0.626882 " />
+                <P3Val t="3840" v="0.341628 -77.797859 1.018207 " />
+                <P3Val t="4000" v="0.333268 -84.881477 1.444061 " />
+                <P3Val t="4160" v="0.324908 -91.549896 1.869915 " />
+                <P3Val t="4320" v="0.317226 -97.413933 2.261240 " />
+                <P3Val t="4480" v="0.310900 -102.084389 2.583508 " />
+                <P3Val t="4640" v="0.306607 -105.172066 2.802190 " />
+                <P3Val t="4800" v="0.305025 -106.287781 2.882757 " />
+            </Samples>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Position \ Zero Pos XYZ \ X Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="4" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.361511 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.305025 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Position \ Zero Pos XYZ \ Y Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="4" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-23.249363 " inTanVal="0.016592 " outTanVal="-0.016592 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-53.095364 " inTanVal="0.025950 " outTanVal="-0.025950 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="-106.287781 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Position \ Zero Pos XYZ \ Z Position" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="4" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="5.931030 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.005365 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="2.882757 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Rotation \ Zero Euler XYZ" classOf="Euler XYZ" classID="2012,0" superClassID="900C" subNum="1" numChildren="3" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant" eulerOrder="XZY" eulerRotatingFrame="true">
+            <Samples count="31">
+                <RVal t="0" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="160" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="320" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="480" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="640" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="800" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="960" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1120" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1280" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1440" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1600" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1760" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="1920" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2080" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2240" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2400" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2560" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2720" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="2880" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3040" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3200" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3360" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3520" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3680" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="3840" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4000" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4160" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4320" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4480" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4640" v="0.0 0.0 0.0 1.0 " />
+                <RVal t="4800" v="0.0 0.0 0.0 1.0 " />
+            </Samples>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Rotation \ Zero Euler XYZ \ X Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Rotation \ Zero Euler XYZ \ Y Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Rotation \ Zero Euler XYZ \ Z Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="0.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="-1.000000 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ IK Goal \ Scale" classOf="Bezier Scale" classID="2010,0" superClassID="900D" subNum="2" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <K t="0" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 1.0 1.0 -0.0 -0.0 -0.0 1.0 " inTanVal="0.0 0.0 0.0 " outTanVal="0.0 0.0 0.0 " inLen="-1.000000 -1.000000 -1.000000 " outLen="0.333300 0.333300 0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="IK Chain003 \ Transform \ Enabled" classOf="Boolean Controller" classID="5ED56FC5,6AF0E521" superClassID="9003" subNum="2" numChildren="0" filterType="ik" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="0" v="1.0 " />
+            </Keys>
+        </Controller>
+    </Node>
+</MaxAnimation>
